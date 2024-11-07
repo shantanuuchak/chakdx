@@ -299,14 +299,8 @@
 
 .notion-red_background,
 .notion-orange_background {
-  /* light red */
-  background-image: linear-gradient(
-    119deg,
-    var(--bg-color),
-    #f5c4ff 10.5%,
-    #e7a8fc 85.29%,
-    var(--bg-color)
-  );
+  background: #e0f2fe;
+  font-weight: bold;
 }
 
 .notion-teal_background {
@@ -400,6 +394,6 @@
   color: var(--fg-color-2);
 }
 
-.notion-equation.notion-equation-block{
+.notion-equation.notion-equation-block {
   align-items: center;
 }
