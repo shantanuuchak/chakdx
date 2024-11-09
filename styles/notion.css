@@ -341,6 +341,11 @@
   background: none !important;
 }
 
+.dark-mode .notion-red_background {
+  background-color: rgba(175, 253, 249, 0.479) !important;
+  color: black;
+}
+
 /* if you don't want rounded page icon images, remove this */
 .notion-page-icon-hero.notion-page-icon-image {
   border-radius: 50%;
